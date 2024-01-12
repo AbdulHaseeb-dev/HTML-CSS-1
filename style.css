@@ -1,0 +1,19 @@
+body{
+     text-align:center;
+	 font-family: 'Oswald', sans-serif;
+
+}
+.center_2{
+	text-align: -webkit-left;
+}
+.center_1{
+	margin:0 auto;
+	width:80%;
+	padding:2%
+}
+.border_1{  
+	border-bottom:2px solid green;
+}
+h2{
+	border-bottom:2px solid green;
+}
